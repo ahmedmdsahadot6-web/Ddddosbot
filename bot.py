@@ -6,7 +6,7 @@ BOT_TOKEN = "8778426515:AAFJkJopD148bBX6iwHXEced5Np_PXCYJG8"
 TARGET_URL = "https://your-domain.com"
 
 # শুধু আপনার নিজের Telegram user ID ব্যবহার করুন
-ALLOWED_USER_ID = 8454401183
+ALLOWED_USER_ID = 8454401183 ,8839750607
 
 
 def authorized(update: Update):
